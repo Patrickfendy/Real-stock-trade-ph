@@ -1,2 +1,3 @@
 # Real-stock-trade-ph
-Real Stock Trade PH is an online platform designed to provide stock trading information, investment resources, and financial market services for users interested in the Philippine stock market.
+    Real Stock Trade PH is an online platform designed to provide stock trading information, investment resources, and financial market services for users interested in the Philippine stock market.
+SEC Philippines Stock Exchange BDO APPROVED BPI Gcash Account credited successfully alert 
